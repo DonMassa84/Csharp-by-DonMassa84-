@@ -1,0 +1,11 @@
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\bin\Debug\prjGehalt.exe.config
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\bin\Debug\prjGehalt.exe
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\bin\Debug\prjGehalt.pdb
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\obj\Debug\prjGehalt.csproj.AssemblyReference.cache
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\obj\Debug\prjGehalt.csproj.SuggestedBindingRedirects.cache
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\obj\Debug\prjGehalt.frmMain.resources
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\obj\Debug\prjGehalt.Properties.Resources.resources
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\obj\Debug\prjGehalt.csproj.GenerateResource.cache
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\obj\Debug\prjGehalt.csproj.CoreCompileInputs.cache
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\obj\Debug\prjGehalt.exe
+E:\Users\it\Documents\CBM\Dev C#Projecte\prjGehalt\obj\Debug\prjGehalt.pdb

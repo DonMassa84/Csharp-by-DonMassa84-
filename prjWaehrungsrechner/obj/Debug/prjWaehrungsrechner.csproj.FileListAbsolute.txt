@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjWaehrungsrechner\bin\Debug\prjWaehrungsrechner.exe.config
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjWaehrungsrechner\bin\Debug\prjWaehrungsrechner.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjWaehrungsrechner\bin\Debug\prjWaehrungsrechner.pdb
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjWaehrungsrechner\obj\Debug\prjWaehrungsrechner.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjWaehrungsrechner\obj\Debug\prjWaehrungsrechner.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjWaehrungsrechner\obj\Debug\prjWaehrungsrechner.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjWaehrungsrechner\obj\Debug\prjWaehrungsrechner.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjWaehrungsrechner\obj\Debug\prjWaehrungsrechner.pdb

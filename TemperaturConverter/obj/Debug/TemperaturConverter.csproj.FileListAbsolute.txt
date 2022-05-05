@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\TemperaturConverter\bin\Debug\TemperaturConverter.exe.config
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\TemperaturConverter\bin\Debug\TemperaturConverter.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\TemperaturConverter\bin\Debug\TemperaturConverter.pdb
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\TemperaturConverter\obj\Debug\TemperaturConverter.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\TemperaturConverter\obj\Debug\TemperaturConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\TemperaturConverter\obj\Debug\TemperaturConverter.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\TemperaturConverter\obj\Debug\TemperaturConverter.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\TemperaturConverter\obj\Debug\TemperaturConverter.pdb

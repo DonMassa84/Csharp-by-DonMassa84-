@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\bin\Debug\PrNettoeRechner3.exe.config
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\bin\Debug\PrNettoeRechner3.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\bin\Debug\PrNettoeRechner3.pdb
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\obj\Debug\PrNettoeRechner3.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\obj\Debug\PrNettoeRechner3.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\obj\Debug\PrNettoeRechner3.frmHaupt.resources
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\obj\Debug\PrNettoeRechner3.Properties.Resources.resources
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\obj\Debug\PrNettoeRechner3.csproj.GenerateResource.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\obj\Debug\PrNettoeRechner3.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\obj\Debug\PrNettoeRechner3.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrNettoeRechner3\obj\Debug\PrNettoeRechner3.pdb

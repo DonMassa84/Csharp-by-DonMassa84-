@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjPostleitzahlen\bin\Debug\prjPostleitzahlen.exe.config
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjPostleitzahlen\bin\Debug\prjPostleitzahlen.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjPostleitzahlen\bin\Debug\prjPostleitzahlen.pdb
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjPostleitzahlen\obj\Debug\prjPostleitzahlen.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjPostleitzahlen\obj\Debug\prjPostleitzahlen.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjPostleitzahlen\obj\Debug\prjPostleitzahlen.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjPostleitzahlen\obj\Debug\prjPostleitzahlen.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\prjPostleitzahlen\obj\Debug\prjPostleitzahlen.pdb
