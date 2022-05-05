@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Fahrtenbuch\obj\Debug\Fahrtenbuch.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Fahrtenbuch\obj\Debug\Fahrtenbuch.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Fahrtenbuch\obj\Debug\Fahrtenbuch.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Fahrtenbuch\bin\Debug\Fahrtenbuch.exe.config
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Fahrtenbuch\bin\Debug\Fahrtenbuch.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Fahrtenbuch\bin\Debug\Fahrtenbuch.pdb
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Fahrtenbuch\obj\Debug\Fahrtenbuch.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Fahrtenbuch\obj\Debug\Fahrtenbuch.pdb

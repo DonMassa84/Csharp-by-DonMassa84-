@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\ArtikelVerwaltung\obj\Debug\ArtikelVerwaltung.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\ArtikelVerwaltung\obj\Debug\ArtikelVerwaltung.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\ArtikelVerwaltung\obj\Debug\ArtikelVerwaltung.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\ArtikelVerwaltung\bin\Debug\ArtikelVerwaltung.exe.config
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\ArtikelVerwaltung\bin\Debug\ArtikelVerwaltung.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\ArtikelVerwaltung\bin\Debug\ArtikelVerwaltung.pdb
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\ArtikelVerwaltung\obj\Debug\ArtikelVerwaltung.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\ArtikelVerwaltung\obj\Debug\ArtikelVerwaltung.pdb

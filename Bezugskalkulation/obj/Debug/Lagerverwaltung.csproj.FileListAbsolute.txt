@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Bezugskalkulation\bin\Debug\Bezugskalkulation.exe.config
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Bezugskalkulation\bin\Debug\Bezugskalkulation.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Bezugskalkulation\bin\Debug\Bezugskalkulation.pdb
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Bezugskalkulation\obj\Debug\Lagerverwaltung.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Bezugskalkulation\obj\Debug\Lagerverwaltung.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Bezugskalkulation\obj\Debug\Lagerverwaltung.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Bezugskalkulation\obj\Debug\Bezugskalkulation.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\Bezugskalkulation\obj\Debug\Bezugskalkulation.pdb

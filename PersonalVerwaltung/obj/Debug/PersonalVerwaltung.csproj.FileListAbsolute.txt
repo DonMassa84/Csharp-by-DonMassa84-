@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PersonalVerwaltung\obj\Debug\PersonalVerwaltung.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PersonalVerwaltung\obj\Debug\PersonalVerwaltung.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PersonalVerwaltung\obj\Debug\PersonalVerwaltung.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PersonalVerwaltung\bin\Debug\PersonalVerwaltung.exe.config
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PersonalVerwaltung\bin\Debug\PersonalVerwaltung.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PersonalVerwaltung\bin\Debug\PersonalVerwaltung.pdb
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PersonalVerwaltung\obj\Debug\PersonalVerwaltung.exe
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PersonalVerwaltung\obj\Debug\PersonalVerwaltung.pdb

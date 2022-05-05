@@ -1,0 +1,6 @@
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrFrmLogin\obj\Debug\PrFrmLogin.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrFrmLogin\obj\Debug\PrFrmLogin.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrFrmLogin\obj\Debug\PrFrmLogin.Properties.Resources.resources
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrFrmLogin\obj\Debug\PrFrmLogin.csproj.GenerateResource.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrFrmLogin\obj\Debug\PrFrmLogin.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\19.04.22 C#\DevC#Projekte\PrFrmLogin\obj\Debug\prjLogin.frmLogin.resources
