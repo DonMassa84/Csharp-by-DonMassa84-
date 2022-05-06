@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.label1 = new System.Windows.Forms.Label();
-            this.listView1 = new System.Windows.Forms.ListView();
+            this.livPersonen = new System.Windows.Forms.ListView();
             this.cohID = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.cohName = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.cohAlter = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
@@ -69,21 +69,21 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Liste der eingegebenen Personen:";
             // 
-            // listView1
+            // livPersonen
             // 
-            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.livPersonen.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
             this.cohID,
             this.cohName,
             this.cohAlter,
             this.cohGehalt});
-            this.listView1.GridLines = true;
-            this.listView1.HideSelection = false;
-            this.listView1.Location = new System.Drawing.Point(25, 65);
-            this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(563, 257);
-            this.listView1.TabIndex = 1;
-            this.listView1.UseCompatibleStateImageBehavior = false;
-            this.listView1.View = System.Windows.Forms.View.Details;
+            this.livPersonen.GridLines = true;
+            this.livPersonen.HideSelection = false;
+            this.livPersonen.Location = new System.Drawing.Point(25, 65);
+            this.livPersonen.Name = "livPersonen";
+            this.livPersonen.Size = new System.Drawing.Size(563, 257);
+            this.livPersonen.TabIndex = 1;
+            this.livPersonen.UseCompatibleStateImageBehavior = false;
+            this.livPersonen.View = System.Windows.Forms.View.Details;
             // 
             // cohID
             // 
@@ -272,6 +272,7 @@
             this.rbtGehalt.TabIndex = 3;
             this.rbtGehalt.Text = "nach Gehalt";
             this.rbtGehalt.UseVisualStyleBackColor = true;
+            this.rbtGehalt.CheckedChanged += new System.EventHandler(this.rbtEinRadiobutton_CheckedChanged);
             // 
             // rbtAlter
             // 
@@ -282,6 +283,7 @@
             this.rbtAlter.TabIndex = 2;
             this.rbtAlter.Text = "nach Alter";
             this.rbtAlter.UseVisualStyleBackColor = true;
+            this.rbtAlter.CheckedChanged += new System.EventHandler(this.rbtEinRadiobutton_CheckedChanged);
             // 
             // rbtName
             // 
@@ -292,6 +294,7 @@
             this.rbtName.TabIndex = 1;
             this.rbtName.Text = "nach name";
             this.rbtName.UseVisualStyleBackColor = true;
+            this.rbtName.CheckedChanged += new System.EventHandler(this.rbtEinRadiobutton_CheckedChanged);
             // 
             // rbtUnsortiert
             // 
@@ -304,6 +307,7 @@
             this.rbtUnsortiert.TabStop = true;
             this.rbtUnsortiert.Text = "Unsortiert";
             this.rbtUnsortiert.UseVisualStyleBackColor = true;
+            this.rbtUnsortiert.CheckedChanged += new System.EventHandler(this.rbtEinRadiobutton_CheckedChanged);
             // 
             // frmMain
             // 
@@ -313,7 +317,7 @@
             this.Controls.Add(this.grbSortierung);
             this.Controls.Add(this.grbEingabe);
             this.Controls.Add(this.grbStatistik);
-            this.Controls.Add(this.listView1);
+            this.Controls.Add(this.livPersonen);
             this.Controls.Add(this.label1);
             this.Name = "frmMain";
             this.Text = "ArrayList und ListView";
@@ -331,7 +335,7 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ListView listView1;
+        private System.Windows.Forms.ListView livPersonen;
         private System.Windows.Forms.GroupBox grbStatistik;
         private System.Windows.Forms.Label lblGehaltDurchschnitt;
         private System.Windows.Forms.Label lblAlterDurchschnitt;
