@@ -1,10 +1,8 @@
 # Csharp-by-DonMassa84-
 Mein Csharp Kurs und Alle Aufgaben die ich gelösst habe 19.04.22 bis 20.05.22
 copy left by DonMassa84
-Das Repository "Csharp-by-DonMassa84-" enthält mehrere Projekte und Dateien.
 
 
-# Csharp-by-DonMassa84-
 
 Dieses Repository enthält verschiedene C#-Projekte und Hilfsprogramme, die von DonMassa84 entwickelt wurden.
 
